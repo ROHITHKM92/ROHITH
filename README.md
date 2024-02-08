@@ -25,5 +25,5 @@
 
 > - [ ] [Data Science Professional Certification - Itronix Solutions](https://github.com/ROHITHKM92/ROHITH/assets/87298902/1c74ace2-fa95-4d77-9b20-26365e6ea267) ➡️➡️➡️ [✅Validate](Certification ID: IS/DS/23/1133)
 
-
+> - [ ] [SQL and Relational Databases - IBM](https://github.com/ROHITHKM92/ROHITH/assets/87298902/aa07f971-d319-4e96-a374-bddaa78c8188) ➡️➡️➡️ [✅Validate](https://courses.cognitiveclass.ai/certificates/280c5f5b53d942f1b202e0f87e2a240e)
 

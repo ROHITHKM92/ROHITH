@@ -17,7 +17,7 @@
 
 > - [ ] [Data Visualization with R - IBM](https://github.com/ROHITHKM92/ROHITH/assets/87298902/7a36b598-fae4-40c3-bf92-d6a1f5387c98) ➡️➡️➡️ [✅Validate](https://courses.cognitiveclass.ai/certificates/b9d7ab2585dd464cb09a160125f4ba16)
 
-> - [ ] [Data Visualization with R - IBM](https://github.com/ROHITHKM92/ROHITH/assets/87298902/7a36b598-fae4-40c3-bf92-d6a1f5387c98) ➡️➡️➡️ [✅Validate](https://courses.cognitiveclass.ai/certificates/b9d7ab2585dd464cb09a160125f4ba16)
+> - [ ] [Data Science - IBM](https://github.com/ROHITHKM92/ROHITH/assets/87298902/ffca3b4d-d2ab-446e-a0b4-b04e2b37d929) ➡️➡️➡️ [✅Validate](https://courses.cognitiveclass.ai/certificates/0bcdf062cdc943e691a3fae1568428a5)
 
 > - [ ] [Digital Analytics & Regression - IBM](https://github.com/ROHITHKM92/ROHITH/assets/87298902/6b047264-4211-449f-a161-0035629b52af) ➡️➡️➡️ [✅Validate](https://courses.cognitiveclass.ai/certificates/bacd4c32a12b4cd1a7d5e3147d5ae00f)
 

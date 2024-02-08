@@ -1,3 +1,4 @@
 # 📜 Certifications
 
-- [ ] [Health Research Fundamentals - NPTEL, Credential ID: NPTEL18GE11S21120538.]([https://www.tensorflow.org/certificate?hl=en]![Health research fundamentals_ROHITH](https://github.com/ROHITHKM92/ROHITH/assets/87298902/15ce225f-2d47-4690-b617-9c570a1776cd)
+- [ ] [Health Research Fundamentals - NPTEL, Credential ID: NPTEL18GE11S21120538.]([https://www.tensorflow.org/certificate?hl=en]
+- [ ] !(https://github.com/ROHITHKM92/ROHITH/assets/87298902/5c899138-0a0b-4940-a1e6-f03b8e4e9393)

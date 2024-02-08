@@ -21,3 +21,5 @@
 >
 > - [ ] [Machine Learning with R - IBM](https://github.com/ROHITHKM92/ROHITH/assets/87298902/200d87ed-fba6-4354-8ce7-a306b6b04ce3) ➡️➡️➡️ [✅Validate](https://courses.cognitiveclass.ai/certificates/f5764791bc4b4cf4861e8640ec95de09)
 
+> - [ ] [Data Science Professional Certification - Itronix Solutions](https://github.com/ROHITHKM92/ROHITH/assets/87298902/1c74ace2-fa95-4d77-9b20-26365e6ea267) ➡️➡️➡️ [✅Validate](Certification ID: IS/DS/23/1133)
+
